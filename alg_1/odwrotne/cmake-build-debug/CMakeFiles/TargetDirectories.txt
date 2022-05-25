@@ -1,0 +1,3 @@
+D:/Projekt_Algorytmy/alg_1/odwrotne/cmake-build-debug/CMakeFiles/odwrotne.dir
+D:/Projekt_Algorytmy/alg_1/odwrotne/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekt_Algorytmy/alg_1/odwrotne/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Projekt_Algorytmy/alg_1/posortowane/cmake-build-debug/CMakeFiles/posortowane.dir
+D:/Projekt_Algorytmy/alg_1/posortowane/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekt_Algorytmy/alg_1/posortowane/cmake-build-debug/CMakeFiles/rebuild_cache.dir

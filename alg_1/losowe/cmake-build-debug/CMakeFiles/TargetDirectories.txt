@@ -1,0 +1,3 @@
+D:/Projekt_Algorytmy/alg_1/losowe/cmake-build-debug/CMakeFiles/losowe.dir
+D:/Projekt_Algorytmy/alg_1/losowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekt_Algorytmy/alg_1/losowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
